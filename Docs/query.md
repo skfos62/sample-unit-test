@@ -8,3 +8,4 @@
   - getByTestId는 가장 마지막 우선순위에 있음. 
 - fireEvent 보다 **userEvent**를 사용해서 element 클릭해주는게 좋음.
   - userEvent는 fireEvent에서 이것저것 기능 추가를 한 것.
+  - 각 엘리먼트의 타입마다 다른 반응을 보여줌. 
